@@ -19,7 +19,7 @@
   <img src="https://user-images.githubusercontent.com/121934188/234774875-7b53b4eb-265d-4b00-8d92-3ecc0276f92c.jpg" title="Girl2" alt="Girl2" width="190" height="205"/>&nbsp;
 </div>
 
-
+ 
 # requirments:
     pip install torch
     pip install numpy
